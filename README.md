@@ -1,36 +1,37 @@
----
-layout: default
----
+## Welcome to GitHub Pages
 
-It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
+You can use the [editor on GitHub](https://github.com/alejandrobodas/wikitests/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Markdown
 
-# This is an <h1> tag
-  ## This is an <h2> tag
-  ###### This is an <h6> tag
-  
-*This text will be italic*
-_This will also be italic_
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-**This text will be bold**
-__This will also be bold__
+```markdown
+Syntax highlighted code block
 
-_You **can** combine them_
+# Header 1
+## Header 2
+### Header 3
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+- Bulleted
+- List
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+1. Numbered
+2. List
 
-I think you should use an
-`<addr>` element here instead.
+**Bold** and _Italic_ and `Code` text
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+[Link](url) and ![Image](src)
 ```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alejandrobodas/wikitests/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
